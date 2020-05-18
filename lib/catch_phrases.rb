@@ -14,7 +14,7 @@ describe all_phrases do
   phrase = "It's-a me, Mario!"
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   result = "It's Dangerous To Go Alone! Take This."
-  return phrase + ' ' + status ' ' + result
+  return phrase + ' ' + status + ' ' + result
 end
 
 
