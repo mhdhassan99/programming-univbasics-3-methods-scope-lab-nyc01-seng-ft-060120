@@ -11,9 +11,9 @@ end
 
 
 def all_phrases 
-  phrase = "It's-a me, Mario!"
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
-  result = "It's Dangerous To Go Alone! Take This."
+  puts "It's-a me, Mario!"
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts "It's Dangerous To Go Alone! Take This."
   return phrase + ' ' + status + ' ' + result
 end
 
