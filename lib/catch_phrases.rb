@@ -9,11 +9,11 @@ def toadstool
   puts status
 end
 
-$result = "It's Dangerous To Go Alone! Take This."
+
 def all_phrases 
   mario
   toadstool
-  puts result
+  puts "It's Dangerous To Go Alone! Take This."
 end
 
 
