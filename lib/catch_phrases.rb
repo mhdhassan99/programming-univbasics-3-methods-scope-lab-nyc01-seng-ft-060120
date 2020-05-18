@@ -9,11 +9,10 @@ def toadstool
   puts status
 end
 
-
+result = "It's Dangerous To Go Alone! Take This."
 def all_phrases 
   mario
   toadstool
-  result = "It's Dangerous To Go Alone! Take This."
   return result
 end
 
