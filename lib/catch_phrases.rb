@@ -13,7 +13,7 @@ result = "It's Dangerous To Go Alone! Take This."
 def all_phrases 
   mario
   toadstool
-  return result
+  puts result
 end
 
 
